@@ -1,2 +1,2 @@
-# rental_price_prediction
-Prediction of short-term rental prices
+# Rental Price Prediction
+This repo contains a Jupyter Notebook that does EDA on a short-term rentals dataset, does feature engineering, and based on these, builds an XGBoost model that predicts short-term rentals. The EDA includes ANOVA, visualizations, a PCA to see if we can reduce the dimensions, and linearity tests to see how we whould build the XGBoost model. At the end, the model predictions are visualised to see if the model is able to predict prices across the range of the feature.
